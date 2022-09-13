@@ -3,7 +3,6 @@
 **Sobre:**
 - Desenvolvedor Web Full Stack
 - Graduando em Ciência da Computação
-- Atualmente aprendendo React
 - Tecnologias e Ferramentas:
 <div style="display: flex" align="center">
   <img align="center" alt="rosanper-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
